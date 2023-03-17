@@ -1,6 +1,7 @@
 
 ## CONVERSOR MÚLTIPLE ALURA. 
 ***
+##ARCHIVO EJECUTABLE: conversor unidades ALURA.jar
 ## Estado: 
 Primera versión (marzo 2023).
 ***
